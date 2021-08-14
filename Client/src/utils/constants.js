@@ -1,0 +1,4 @@
+export default {
+	CANDIDATE: "CANDIDATE",
+	COMPANY: "COMPANY"
+}

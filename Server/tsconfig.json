@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"module": "CommonJS",
+		"declaration": true,
+		"declarationMap": true,
+		"sourceMap": true,
+		"strict": true,
+		"removeComments": true,
+		"preserveConstEnums": true,
+		"rootDir": "src",
+		"outDir": "build",
+		"typeRoots": ["@types", "node_modules/@types"],
+		"esModuleInterop": true,
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"strictPropertyInitialization": false,
+		"allowJs": true
+	},
+	"exclude": ["./build", "./config", "./*.js"]
+}

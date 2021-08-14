@@ -1,0 +1,31 @@
+.root {
+	.header {
+		background-color: #2A2A2B;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-wrap: wrap;
+
+		& img {
+			margin: 20px 32px;
+		}
+
+		.title {
+			color: white;
+		}
+
+		.actionsContainer {
+			margin: 20px 0;
+		}
+
+		.logInButton {
+			color: white;
+		}
+
+		.signUpButton {
+			border-radius: 25px;
+			background-color: white;
+			margin: 0 32px;
+		}
+	}
+}
