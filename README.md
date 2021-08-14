@@ -2,9 +2,9 @@
 
 ## OVERVIEW
 
-My solution was to build a Web Application which can be used as Human Recruitment Signing platform. The Goal of the Application was to make the Contract Creation/Collaboration and Contract Signing be easy,  seamless and secure for both Candidate and Employer. 
+My solution was to build a Web Application which can be used as Human Recruitment Signing platform. The Goal of the Application was to make the Contract Creation,Collaboration and Contract Signing be easy, seamless and secure for both Candidate and Employer. 
 
-This Applicationleveraged Adobe PDF API and Adobe Sign API to build a web application (the Human Recruitment Signing platform).
+This Application leveraged Adobe PDF API and Adobe Sign API to build a web application (the Human Recruitment Signing platform).
 
 ## HOW I APPROACHED THE CHALLENGE
 
