@@ -19,7 +19,7 @@ I could explore different formats such as dynamic HTML; Microsoft Word, PowerPoi
 I could convert existing PDFs to popular formats, such as Microsoft Word, Excel, and PowerPoint, as well as text and image
 Both these Api were useful for the Employer to create and amend a Contract. 
 
-Second I explored the Apis which helped in Collaborating in the Contract between Employer and Candidate.
+Next I explored the Apis which helped in Collaborating in the Contract between Employer and Candidate.
 
 ### Annotation Api 
 This Api could be used to Collaborate and Comment between Employee and Candidate
