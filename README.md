@@ -2,16 +2,15 @@
 
 ## OVERVIEW
 
-My solution was to build a Web A pplication which can be used as Human Recruitment Signing platform. The Goal of the Application was to make the Contract Creation/Collaboration and Contract Signing be very easy and seamless and secure for both Candidate and Employer. 
+My solution was to build a Web Application which can be used as Human Recruitment Signing platform. The Goal of the Application was to make the Contract Creation/Collaboration and Contract Signing be easy,  seamless and secure for both Candidate and Employer. 
 
-This Application leverage Adobe PDF API and Adobe Sign API to build a web application (the Human Recruitment Signing platform).
+This Applicationleveraged Adobe PDF API and Adobe Sign API to build a web application (the Human Recruitment Signing platform).
 
 ## HOW I APPROACHED THE CHALLENGE
 
-First thing was to get familiar with the Adobe PDF API and Adobe Sign API functionality to be able to pick the features I can use for my solution. 
+First I got familiar with the Adobe PDF API and Adobe Sign API functionalities needed for my solution. 
 
-Create PDFs Api as well as Convert PDF Api which is available in (Node.js Java .Net). As I was building a React Application, I chose to explore the Node js
-With the help of 
+Create PDFs Api as well as Convert PDF Api were available in (Node.js Java .Net). As I was building a React Application, I chose to explore the Node.js Apis
 
 ### Create PDF Api
 I could explore different formats such as dynamic HTML; Microsoft Word, PowerPoint, and Excel to create the PDF.
@@ -20,7 +19,7 @@ I could explore different formats such as dynamic HTML; Microsoft Word, PowerPoi
 I could convert existing PDFs to popular formats, such as Microsoft Word, Excel, and PowerPoint, as well as text and image
 Both these Api were useful for the Employer to create and amend a Contract. 
 
-Second I explored the Apis which can help in Collaborating in the Contract between Employer and Candidate.
+Second I explored the Apis which helped in Collaborating in the Contract between Employer and Candidate.
 
 ### Annotation Api 
 This Api could be used to Collaborate and Comment between Employee and Candidate
@@ -30,9 +29,9 @@ Next I explored the Adobe Sign API,
 
 ### Adobe Sign API
 The Api's provided can Creates an agreement, Check the Signing Status of Both Employer and Employees,and finally Download the Signed Agreement.
-Using the Api , Both Employer and Employee can sign on the Agreement digitally. Once the Agreement is Signed, the Contract can be downloaded locally by both    parties.
+Using the Api, Both Employer and Employee can sign on the Agreement digitally. Once the Agreement is Signed, the Contract can be downloaded locally by both    parties.
 
-Once I had explored the Apis , I then was able to start Implementing the Components of the project.
+Once I had explored the Apis, I then was able to start Implementing the Components of the project.
 
 ## IMPLEMENTATION
 
@@ -44,7 +43,7 @@ This platform had to support two types of Users,
 The Company: A company is an organization user of the platform as well 
 The Candidate : The applicant that already has passed the interview, a candidate of the employee. One candidate can only be associated with one company.
 
-The company and the candidate users can log in to the application, and On the registration screen, there should be an option to select the role Company or Candidate to be registered.
+The company and the candidate users can Log in to the application, and On the registration screen, there should be an option to select the role Company or Candidate to be registered.
 
 ### Registration Screen
 
@@ -58,7 +57,7 @@ The company and the candidate users can log in to the application, and On the re
 
 Once the Employer Logs In, 
 
-A simple Workflow for Contract Creation. 
+Website presented a Simple Workflow for Contract Creation. 
 
 <img width="800" alt="Screenshot 2021-08-14 at 3 06 27 PM" src="https://user-images.githubusercontent.com/34758872/129441717-71162b32-40ae-433a-88b2-37b3cb144797.png">
 
