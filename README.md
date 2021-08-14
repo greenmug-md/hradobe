@@ -47,11 +47,11 @@ The Candidate : The applicant that already has passed the interview, a candidate
 
 ### Registraion Screen
 
-<img width="1280" alt="Screenshot 2021-08-14 at 3 03 22 PM" src="https://user-images.githubusercontent.com/34758872/129441642-ddc7ea48-6ec1-48c7-905a-8362a0d736c9.png">
+<img width="800" alt="Screenshot 2021-08-14 at 3 03 22 PM" src="https://user-images.githubusercontent.com/34758872/129441642-ddc7ea48-6ec1-48c7-905a-8362a0d736c9.png">
 
 ### Login Screen 
 
-<img width="1280" alt="Screenshot 2021-08-14 at 3 05 05 PM" src="https://user-images.githubusercontent.com/34758872/129441670-43240d06-a1b3-4d37-adba-8bd1d0bebeb5.png">
+<img width="800" alt="Screenshot 2021-08-14 at 3 05 05 PM" src="https://user-images.githubusercontent.com/34758872/129441670-43240d06-a1b3-4d37-adba-8bd1d0bebeb5.png">
 
 ### Contract Creation
 
