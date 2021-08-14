@@ -1,4 +1,4 @@
-# Adobe Challenge Series - Use case 1 - Human Recruitment Signing platform
+# Human Recruitment Signing platform
 
 ## OVERVIEW
 
@@ -28,7 +28,7 @@ We can add update, delete annotations , In this the Employee can comment on sect
 
 Next I explored the Adobe Sign API, 
 
-### Adobe Sign API,
+### Adobe Sign API
 The Api's provided can Creates an agreement, Check the Signing Status of Both Employer and Employees,and finally Download the Signed Agreement.
 Using the Api , Both Employer and Employee can sign on the Agreement digitally. Once the Agreement is Signed, the Contract can be downloaded locally by both    parties.
 
@@ -38,16 +38,13 @@ Once I had explored the Apis , I then was able to start Implementing the Compone
 
 Components of the Application
 
-Login/Registration 
-Contract Creation/Amends/Annotation of Contract
-Signing of Agreement and Downlading the Contract.
-
-
 ### Login and Registration
 
 This platform had to support two types of Users, 
 The Company: A company is an organization user of the platform as well 
 The Candidate : The applicant that already has passed the interview, a candidate of the employee. One candidate can only be associated with one company.
+
+The company and the candidate users can log in to the application, and On the registration screen, there should be an option to select the role Company or Candidate to be registered.
 
 ### Registration Screen
 
@@ -82,13 +79,26 @@ After this Step the Contract becomes available to Candidate to View/Comment for 
 
 Once the Candidate Approves and Finalizes the Contract, The Agreement can be initiated from the Employer, and The Candidate and Employer both Sign the Agreement
   
+### Contract Collaboration 
 
+Once the Contract is Created , Both the Employer and Candidate can collaborate to finalize the Contract
+
+<img width="800" alt="Screenshot 2021-08-14 at 3 19 34 PM" src="https://user-images.githubusercontent.com/34758872/129442260-64f7cf5c-d892-4688-96d7-71730b3b2d0d.png">
+
+### Contract Signing
+
+Once the Contract is Finalized.The Agreement can be initiated from the Employer, and The Candidate and Employer both Sign the Agreement
+
+<img width="800" alt="Screenshot 2021-08-14 at 3 20 05 PM" src="https://user-images.githubusercontent.com/34758872/129442321-05257707-542b-4c36-b130-9f5bc5257ba7.png">
+
+<img width="800" alt="Screenshot 2021-08-14 at 3 20 21 PM" src="https://user-images.githubusercontent.com/34758872/129442337-bbc3d8da-fcaf-42e5-9c11-30a3b4195d6b.png">
+
+Once the Agreement is Signed, both parties can download the Document .
+ 
+ 
 ## FINAL THOUGHTS 
 
-## Use case
-
- We are leveraging leverage Adobe PDF API and Adobe Sign API to build a web application (the Human Recruitment Signing platform) for the companies to help them sign a Labor Contract with their candidate employees.
-
+Being a Android Developer, and as it was my first time exploring Web Development, The Documentation as well as the Sample Examples and Demos provided in Adobe website helped me to get started on this easily and was able to complete this Project quickly.
 
 ## Video
 
@@ -96,6 +106,3 @@ Video Link :  https://drive.google.com/file/d/19JBmwXcSaQyuHtjxq8bBjydVpGbK3OVy/
 or
 https://www.youtube.com/watch?v=mid4N7Qq81c&feature=youtu.be
 
-## Client and Server
-Respective Front End and Back End Readme are present in side folders
-Client and Server respectively.
